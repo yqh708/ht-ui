@@ -24,3 +24,4 @@ git commit -m 'deploy'
 git push -f git@github.com:yqh708/ht-ui.git master:gh-pages
 
 cd -
+

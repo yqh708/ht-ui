@@ -2,7 +2,7 @@ const path = require('path')
 module.exports = {
     base:'/ht-ui/', // github子目录
     title: 'ht UI',
-    dest: '/ht-ui', // 修改输出位置和名字
+    dest: './docs/.vuepress/ht-ui', // 修改输出位置和名字
     description: 'Inspiration from amy',
     head: [
       ['link', { rel: 'icon', href: '/favicon.ico' }]
